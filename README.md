@@ -28,7 +28,7 @@ Thiss project was part of my internship where the goal was to simulate common at
 ### 1️⃣ Credential Stuffing
 **Logic:** Detect multiple failed login attempts from the same IP within a short time window.  
 **Query Screenshot:**  
-![Credential Stuffing Query](./screenshots/credential_stuffing_query.png)  
+![Credential Stuffing Query](https://github.com/IsmayeelKhan77/Internship-Project-2-SIEM-Correlation-Rules/blob/main/screenshots/Credential_stuffing%20ss1.png?raw=true)  
 **Alert Configuration Screenshot:**  
 ![Credential Stuffing Alert](./screenshots/credential_stuffing_alert.png)  
 
