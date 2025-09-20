@@ -30,25 +30,26 @@ Thiss project was part of my internship where the goal was to simulate common at
 **Query Screenshot:**  
 ![Credential Stuffing Query](https://github.com/IsmayeelKhan77/Internship-Project-2-SIEM-Correlation-Rules/blob/main/screenshots/Credential_stuffing%20ss1.png?raw=true)  
 **Alert Configuration Screenshot:**  
-![Credential Stuffing Alert](./screenshots/credential_stuffing_alert.png)  
+![Credential Stuffing Alert]( https://github.com/IsmayeelKhan77/Internship-Project-2-SIEM-Correlation-Rules/blob/main/screenshots/credential_stuffing%20ss2.png?raw=true)  
 
 ---
 
 ### 2️⃣ DNS Tunneling
 **Logic:** Detect abnormal frequency of DNS queries to the same suspicious domain within a small timeframe.  
 **Query Screenshot:**  
-![DNS Tunneling Query](./screenshots/dns_tunneling_query.png)  
+![DNS Tunneling Query](https://github.com/IsmayeelKhan77/Internship-Project-2-SIEM-Correlation-Rules/blob/main/screenshots/dns_tunneling%20ss1.png?raw=true)  
 **Alert Configuration Screenshot:**  
-![DNS Tunneling Alert](./screenshots/dns_tunneling_alert.png)  
+![DNS Tunneling Alert](https://github.com/IsmayeelKhan77/Internship-Project-2-SIEM-Correlation-Rules/blob/main/screenshots/dns_tunneling%20ss2.png?raw=true
+)  
 
 ---
 
 ### 3️⃣ PowerShell Exploitation
 **Logic:** Detect suspicious PowerShell commands (e.g., encoded commands, remote execution attempts).  
 **Query Screenshot:**  
-![PowerShell Query](./screenshots/powershell_query.png)  
+![PowerShell Query](https://github.com/IsmayeelKhan77/Internship-Project-2-SIEM-Correlation-Rules/blob/main/screenshots/PowerShell%20Exploitation%20ss1.png?raw=true)  
 **Alert Configuration Screenshot:**  
-![PowerShell Alert](./screenshots/powershell_alert.png)  
+![PowerShell Alert](https://github.com/IsmayeelKhan77/Internship-Project-2-SIEM-Correlation-Rules/blob/main/screenshots/PowerShell%20Exploitation%20ss2.png?raw=true)  
 
 ---
 
